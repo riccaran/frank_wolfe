@@ -12,7 +12,7 @@ This Python script contains all the core functions and the two Frank-Wolfe algor
 
 This Jupyter notebook performs the actual comparison between the Frank-Wolfe and Away-Steps Frank-Wolfe algorithms. This notebook tests the algorithms on the movie ratings dataset and plots the gaps.
 
-### `Report.pdf`
+### `work_report.pdf`
 
 A comprehensive report describing the work, methodologies, and discussions on the results obtained from the algorithms.
 
