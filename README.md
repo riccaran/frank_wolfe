@@ -16,6 +16,6 @@ This Jupyter notebook performs the actual comparison between the Frank-Wolfe and
 
 A comprehensive report describing the work, methodologies, and discussions on the results obtained from the algorithms.
 
-# Notes
+### `ratings.csv`
 
-The `ratingss.csv` file (easily available at https://grouplens.org/datasets/movielens/) has not been put in this directory, because of upload problems due to its excessive size.
+Dataset file (from at https://grouplens.org/datasets/movielens/) used for the project.
