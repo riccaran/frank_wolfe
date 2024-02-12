@@ -21,7 +21,6 @@ A comprehensive report describing the work, methodologies, and discussions on th
 Dataset file (from at https://grouplens.org/datasets/movielens/) used for the project.
 
 ## Ratings Data File Structure
------------------------------------------
 
 All ratings are contained in the file `ratings.csv`. Each line of this file after the header row represents one rating of one movie by one user, and has the following format:
 
